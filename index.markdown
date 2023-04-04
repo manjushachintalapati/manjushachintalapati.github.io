@@ -6,7 +6,7 @@ layout: page
 title: Home
 ---
 
-![My image 1](./files/MC_main.jpg){: width="175" }{: style="float: right"}
+![My image 1](./files/MC_main2.jpg){: width="150" }{: style="float: right"}
 
 I'm Manjusha (She/her), a postdoctoral researcher at UC Berkeley studying human genetics and genomic diversity. My current [Research](/research/) focus is on analyzing human populations - including present day and ancient groups, and developing computational methods to better understand human diversity. <br>
 
