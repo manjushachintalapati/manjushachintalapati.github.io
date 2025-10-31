@@ -19,6 +19,7 @@ Study of mutation rates across the primate tree including the humans, great apes
 <h3>Traces of Neandertals in Us: A Story of Evolution and Adaptation</h3>
 In my recent research about [Neandertal Ancestry over time](https://www.science.org/doi/abs/10.1126/science.adq3010), I investigated how Neandertal ancestry has influenced human evolution by analyzing genomes from both ancient and present-day individuals. Our results indicate that gene flow from Neandertals into modern humans occurred approximately 50,000 to 43,000 years ago, shortly after the Out-of-Africa migration. We identified specific Neandertal-derived genetic regions—particularly those associated with immune function, skin pigmentation, and metabolism—that appear to have conferred adaptive advantages to early modern humans as they encountered new environments. In contrast, other regions of Neandertal ancestry were gradually removed by natural selection due to their deleterious effects. Together, these findings refine the timing of the Out-of-Africa dispersal and highlight the enduring impact of archaic introgression on human adaptation.
 
+
 More information at - [GoogleScholar](https://scholar.google.com/citations?hl=en&user=jgwT-OUAAAAJ) / 
 [LinkedIn](https://www.linkedin.com/in/manjusha-chintalapati/) 
 
