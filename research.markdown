@@ -17,7 +17,7 @@ Mutations and recombinations are two major molecular processes impacting human g
 Study of mutation rates across the primate tree including the humans, great apes, new world and old world monkeys using published studies revealed 4X variation in the mutation rate across the phylogenetic tree. In our [review](https://www.sciencedirect.com/science/article/pii/S0959437X20300794) we show discrepancies between the genetic and fossil evidence changes our understanding of human evolution. Potential explanations of this effect could be either due to life history traits, slowdown in mutation rate both on human and primate lineages or presence of technical artefacts. In order to rule out the last possibility, I constructed a standard pipeline to process genomic data to interpret results in light of other factors impacting Mutation rate. <br> <br> 
 
 
-More information at - [GoogleScholar](https://scholar.google.com/citations?user=iGDUMEkAAAAJ&hl=en) / 
+More information at - [GoogleScholar](https://scholar.google.com/citations?user=jgwT-OUAAAAJ&hl=en) / 
 [LinkedIn](https://www.linkedin.com/in/manjusha-chintalapati/) 
 
 <br>
